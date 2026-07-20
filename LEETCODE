@@ -46,7 +46,6 @@ If no such index exists, return -1.
 
  
 Example 1:
-
 Input: s = "abcacbd"
 
 Output: 1
