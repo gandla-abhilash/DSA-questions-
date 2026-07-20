@@ -69,7 +69,6 @@ No smaller index satisfies the condition, so the answer is 1.
 Example 3:
 
 Input: s = "abcdab"
-
 Output: -1
 
 Explanation:
