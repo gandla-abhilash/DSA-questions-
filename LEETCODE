@@ -45,7 +45,6 @@ Return the smallest index i such that s[i] == s[n - i - 1].
 If no such index exists, return -1.
 
  
-
 Example 1:
 
 Input: s = "abcacbd"
